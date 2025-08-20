@@ -20,7 +20,6 @@ The system ensures data consistency, error handling, and efficient navigation ac
 ---
 
 ## Screenshots
-*(Upload your screenshots in the `images/` folder and reference them here)*
 
 ### 1. Home Screen
 ![Home Screen](images/home.png)
