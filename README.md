@@ -31,6 +31,9 @@ The system ensures data consistency, error handling, and efficient navigation ac
 ### 3. Add Review
 ![Add Review](images/add_review.png)
 
+### 3. Updated Home Screen
+![Updated Home Screen](images/updated_review.png)
+
 ---
 
 ## Technology Stack
